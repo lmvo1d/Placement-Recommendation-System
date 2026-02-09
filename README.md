@@ -221,10 +221,6 @@ The optimized build will be in `frontend/dist/`
 - Bulk candidate import
 - Export recommendations as PDF/CSV
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For issues and feature requests, please create an issue in the repository.
